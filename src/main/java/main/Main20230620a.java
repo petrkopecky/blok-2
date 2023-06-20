@@ -1,4 +1,4 @@
-package org.example.pk.skoleni;
+package skoleni;
 
 import pk.Car;
 import pk.Rectangle;
